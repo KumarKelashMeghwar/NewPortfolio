@@ -50,8 +50,8 @@ body {
 }
 
 #SoftwareImage {
-    width: 400px;
-    height: 450px;
+    width: 365px;
+    height: 330px;
 }
 
 .emoji {
@@ -118,10 +118,10 @@ body {
     }
     .home .container .row .col-md-7 h1 {
         letter-spacing: 2px;
-        margin-bottom: 2rem;
+        margin-bottom: 1.6rem;
     }
     .home .container .row .col-md-7 p {
-        font-size: 1.8rem;
+        font-size: 1.2rem;
         word-wrap: break-word;
         line-height: 40px;
         letter-spacing: 2px;
@@ -129,12 +129,12 @@ body {
         margin-bottom: 2rem;
     }
     .home .container .row .col-md-7 a {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     #button {
         border: 4px solid deeppink;
-        width: 220px;
-        height: 80px;
+        width: 200px;
+        height: 69px;
         line-height: 73.6px;
         font-size: larger;
         letter-spacing: 2px;
